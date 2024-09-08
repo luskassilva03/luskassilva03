@@ -21,9 +21,8 @@ Recentemente, busquei uma linguagem mais rápida Python. Fiquei encantado com su
 Sinta-se à vontade para entrar em contato para discussões sobre projetos, oportunidades de colaboração ou apenas para bater um papo sobre tecnologia!
 
 
-<div>
-<a href="https://github.com/luskassilva03">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/lucasryansilva">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
 
